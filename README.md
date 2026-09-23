@@ -1,4 +1,6 @@
+![snake](https://raw.githubusercontent.com/YOUR_NAME/YOUR_NAME/output/snake.svg)
 ## Hi there 👋
+Heres a my sad bonsai. Hopfully it grows better one day.
 <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
 <!--
 **personwithbeans/personwithbeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
