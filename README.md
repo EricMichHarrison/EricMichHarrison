@@ -1,5 +1,6 @@
-Hello, I'm just a small project maker. My github is mainly if I want to share any projects I work on. I mostly work on microcontroller based devices at the moment but might start exploring linux aplications soon. But feel free to browse the few projects I have public.
+Hello, I'm just a small project maker who hops on a project every once an a while. My github is mainly if I want to share any projects I work on. I mostly work on microcontroller based devices at the moment but might start exploring linux aplications soon. But feel free to browse the few projects I have public.
 ![snake](https://raw.githubusercontent.com/EricMichHarrison/EricMichHarrison/output/snake.svg)
+![Daily Badge](https://badge.ava.kim/badge.svg?tz=Australia/Sydney)
 Heres a my sad bonsai. Hopfully it grows better one day.
 <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
 <!--
